@@ -28,3 +28,6 @@
 [submodule "zhyouns"]
 	path = zhyouns
 	url = git@github.com:youzhonghui/pos.git
+[submodule "chenliang"]
+	path = chenliang
+	url = https://github.com/cg24/pos-1.git
