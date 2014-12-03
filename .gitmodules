@@ -22,3 +22,6 @@
 [submodule "RenzHoly"]
 	path = RenzHoly
 	url = https://github.com/RenzHoly/pos
+[submodule "lookerson"]
+	path = lookerson
+	url = https://github.com/lookerson/pos.git
