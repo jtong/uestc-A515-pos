@@ -34,3 +34,6 @@
 [submodule "liu102401"]
 	path = liu102401
 	url = https://github.com/liu102401/pos.git
+[submodule "李明隆"]
+	path = 李明隆
+	url = https://github.com/didihe1988/pos.git
