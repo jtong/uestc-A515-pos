@@ -10,3 +10,6 @@
 [submodule "s117"]
 	path = s117
 	url = https://github.com/s117/pos.git
+[submodule "Expost"]
+	path = Expost
+	url = https://github.com/Expost/pos.git
