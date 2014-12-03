@@ -40,3 +40,6 @@
 [submodule "lqs"]
 	path = lqs
 	url = git@github.com:withlqs/pos.git
+[submodule "Likeriver0"]
+	path = Likeriver0
+	url = https://github.com/likeriver0/pos.git
