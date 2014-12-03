@@ -13,3 +13,9 @@
 [submodule "Expost"]
 	path = Expost
 	url = https://github.com/Expost/pos.git
+[submodule "0r1on"]
+	path = 0r1on
+	url = https://github.com/0r1onn/pos.git
+[submodule "0r1onn"]
+	path = 0r1onn
+	url = https://github.com/0r1onn/pos.git
