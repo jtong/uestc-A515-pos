@@ -7,3 +7,6 @@
 [submodule "wen"]
 	path = wen
 	url = https://github.com/weslywen/pos
+[submodule "s117"]
+	path = s117
+	url = https://github.com/s117/pos.git
