@@ -4,3 +4,6 @@
 [submodule "hackeris"]
 	path = hackeris
 	url = https://github.com/hackeris/pos.git
+[submodule "wen"]
+	path = wen
+	url = https://github.com/weslywen/pos
