@@ -1,3 +1,6 @@
 [submodule "叶锦棉"]
 	path = 叶锦棉
 	url = https://github.com/ay27/pos.git
+[submodule "hackeris"]
+	path = hackeris
+	url = https://github.com/hackeris/pos.git
