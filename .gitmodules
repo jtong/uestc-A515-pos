@@ -25,3 +25,6 @@
 [submodule "lookerson"]
 	path = lookerson
 	url = https://github.com/lookerson/pos.git
+[submodule "zhyouns"]
+	path = zhyouns
+	url = git@github.com:youzhonghui/pos.git
