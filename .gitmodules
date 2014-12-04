@@ -28,3 +28,15 @@
 [submodule "zhyouns"]
 	path = zhyouns
 	url = git@github.com:youzhonghui/pos.git
+[submodule "chenliang"]
+	path = chenliang
+	url = https://github.com/cg24/pos-1.git
+[submodule "liu102401"]
+	path = liu102401
+	url = https://github.com/liu102401/pos.git
+[submodule "李明隆"]
+	path = 李明隆
+	url = https://github.com/didihe1988/pos.git
+[submodule "lqs"]
+	path = lqs
+	url = git@github.com:withlqs/pos.git
