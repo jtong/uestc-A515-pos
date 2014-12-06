@@ -40,3 +40,6 @@
 [submodule "lqs"]
 	path = lqs
 	url = git@github.com:withlqs/pos.git
+[submodule "Alice-Li"]
+	path = Alice-Li
+	url = https://github.com/DingrenLi/pos
