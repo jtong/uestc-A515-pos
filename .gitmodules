@@ -43,3 +43,6 @@
 [submodule "Alice-Li"]
 	path = Alice-Li
 	url = https://github.com/DingrenLi/pos
+[submodule "Likeriver0"]
+	path = Likeriver0
+	url = https://github.com/likeriver0/pos.git
