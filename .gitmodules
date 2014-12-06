@@ -46,3 +46,6 @@
 [submodule "Likeriver0"]
 	path = Likeriver0
 	url = https://github.com/likeriver0/pos.git
+[submodule "Prayer"]
+	path = Prayer
+	url = git@github.com:futantan/pos.git
